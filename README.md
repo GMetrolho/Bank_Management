@@ -211,7 +211,7 @@ O sistema implementa um robusto sistema de auditoria através do **LogManager**:
    ```bash
    java -cp "bin;lib/*" Main.Main
    ```
-   
+
    No Linux/macOS, utilize `:` em vez de `;`:
    ```bash
    java -cp "bin:lib/*" Main.Main
@@ -239,9 +239,9 @@ Este projeto foi desenvolvido como trabalho académico de grupo.
 
 ### 🎓 Contexto Académico
 
-**Unidade Curricular**: Linguagens de Programação  
-**Curso**: Gestão de Sistemas e Computação  
-**Ano Letivo**: 2024/2025  
+**Unidade Curricular**: Linguagens de Programação
+**Curso**: Gestão de Sistemas e Computação
+**Ano Letivo**: 2024/2025
 **Tipo**: Projeto Académico
 
 Este projeto demonstra competências em:
@@ -454,7 +454,7 @@ The system implements a robust auditing system through **LogManager**:
    ```bash
    java -cp "bin;lib/*" Main.Main
    ```
-   
+
    On Linux/macOS, use `:` instead of `;`:
    ```bash
    java -cp "bin:lib/*" Main.Main
@@ -482,9 +482,9 @@ This project was developed as an academic group work.
 
 ### 🎓 Academic Context
 
-**Course**: Programming Languages  
-**Degree**: Systems and Computing Management  
-**Academic Year**: 2024/2025  
+**Course**: Programming Languages
+**Degree**: Systems and Computing Management
+**Academic Year**: 2024/2025
 **Type**: Academic Project
 
 This project demonstrates skills in:
@@ -507,8 +507,8 @@ This project is part of an academic assignment. All rights reserved to the origi
 
 ---
 
-**Course**: Linguagens de Programação | Programming Languages  
-**Degree**: Gestão de Sistemas e Computação | Systems and Computing Management  
+**Course**: Linguagens de Programação | Programming Languages
+**Degree**: Gestão de Sistemas e Computação | Systems and Computing Management
 **Academic Year**: 2024/2025
 
 ---
@@ -517,4 +517,4 @@ This project is part of an academic assignment. All rights reserved to the origi
 
 **Developed with ☕ and Java**
 
-</div>****
+</div>
